@@ -1,9 +1,9 @@
 # coach-alan.github.io
-Coach Alan | Curriculum Architect: Engineering AI-augmented clinical education for Arizona Western College | Yuma AZ USA. Technical portfolio and workforce development frameworks.
+Coach Alan | Curriculum Architect: Engineering AI-augmented clinical education for Arizona Western College | Yuma, AZ, USA. Technical portfolio and workforce development frameworks.
 
 <h2> 🏗️ ### README.md Content:
-coach-alan.github.io | The Architect’s Hangar
-This repository serves as the central hub and production pipeline for Coach Alan’s instructional design frameworks. It is the home of the Clinical AI Residency—a technical ecosystem engineered to bridge the gap between Federal Physical Activity Guidelines and Generative AI.
+coach-alan.github.io | The Architect's Hangar
+This repository serves as the central hub and production pipeline for Coach Alan's instructional design frameworks. It is the home of the Clinical AI Residency—a technical ecosystem engineered to bridge the gap between Federal Physical Activity Guidelines and Generative AI.
 
 
 🍱 Project Architecture
@@ -38,8 +38,17 @@ Instructor Field Guide: The 15-Pillar Vault for AI-augmented Kinesiology.
 
 The Centaur Protocol: Our master logic for Human-in-the-Loop AI integration.
 
-🏛️ The Architect’s Mandate
+🏛️ The Architect's Mandate
 "We stop writing for the printer and start writing for the glass. We don't train students to chat with AI; we train them to Pilot the Engine."
+
+⚖️ License & Open Access
+This repository is an Open Educational Resource (OER). All instructional frameworks and documentation are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
+
+Attribution: You must give appropriate credit to Coach Alan Pruitt (Arizona Western College).
+
+Non-Commercial: You may not use the material for commercial purposes.
+
+ShareAlike: Adaptations must be shared under the same professional standards of clinical integrity.
 
 Lead Developer: Coach Alan Pruitt
 
